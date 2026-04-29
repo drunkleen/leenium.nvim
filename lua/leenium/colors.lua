@@ -1,0 +1,18 @@
+return {
+  bg = "#060b0f",
+  panel = "#0b1319",
+  line = "#1d313d",
+  line_strong = "#376781",
+  fg = "#d8f7ea",
+  muted = "#8cb7a9",
+  accent = "#35d6a0",
+  accent_bright = "#5cf0ad",
+  sea = "#94f1cd",
+  sea_bright = "#b7f7de",
+  soft = "#a7d3c2",
+  warn = "#ffd479",
+  warn_bright = "#ffe19a",
+  error = "#ff5f56",
+  error_soft = "#ff7a72",
+  blue = "#4a6d82",
+}
