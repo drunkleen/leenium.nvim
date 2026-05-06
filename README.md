@@ -1,6 +1,6 @@
 # leenium.nvim
 
-Dark Neovim colorscheme from the [Leenium](https://leenium.org) desktop. Deep navy-black background with teal-green accents and amber highlights.
+Dark Neovim colorscheme. Deep navy-black background with teal-green accents and amber highlights.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ Dark Neovim colorscheme from the [Leenium](https://leenium.org) desktop. Deep na
 
 ```lua
 {
-  "leenium/leenium.nvim",
+  "drunkleen/leenium.nvim",
   priority = 1000,
   config = function()
     vim.cmd.colorscheme("leenium")
@@ -25,7 +25,7 @@ Dark Neovim colorscheme from the [Leenium](https://leenium.org) desktop. Deep na
 
 ```lua
 use {
-  "leenium/leenium.nvim",
+  "drunkleen/leenium.nvim",
   config = function()
     vim.cmd.colorscheme("leenium")
   end,
