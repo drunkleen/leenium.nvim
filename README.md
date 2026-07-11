@@ -126,4 +126,4 @@ Shared Leenium palette.
 
 ## License
 
-MIT
+MIT © [Leenium](LICENSE)
