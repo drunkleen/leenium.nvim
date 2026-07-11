@@ -8,7 +8,8 @@
 
 Hosted under `github.com/drunkleen/leenium.nvim`.
 
-<img src="./assets/preview.png" width="95%" />
+<img src="./assets/preview.png" width="63%" />
+<img src="./assets/preview2.png" width="35%" />
 
 
 </div>
