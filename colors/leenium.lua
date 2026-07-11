@@ -1,1 +1,1 @@
-require("leenium").load()
+require("leenium").load("leenium")
