@@ -16,25 +16,6 @@ Hosted under `github.com/drunkleen/leenium.nvim`.
 
 ---
 
-## Color Palette
-
-| Role | Hex | Swatch |
-|---|---|---|
-| Background | `#0b1113` | ![](https://placehold.co/16x16/0b1113/0b1113.png) |
-| Surface | `#11191c` | ![](https://placehold.co/16x16/11191c/11191c.png) |
-| Selection | `#365156` | ![](https://placehold.co/16x16/365156/365156.png) |
-| Foreground | `#d8e3e0` | ![](https://placehold.co/16x16/d8e3e0/d8e3e0.png) |
-| Muted | `#718688` | ![](https://placehold.co/16x16/718688/718688.png) |
-| Accent | `#33b8a8` | ![](https://placehold.co/16x16/33b8a8/33b8a8.png) |
-| Cyan | `#59d6c5` | ![](https://placehold.co/16x16/59d6c5/59d6c5.png) |
-| Emerald | `#4dba7a` | ![](https://placehold.co/16x16/4dba7a/4dba7a.png) |
-| Blue | `#5e9bff` | ![](https://placehold.co/16x16/5e9bff/5e9bff.png) |
-| Yellow | `#d9c76b` | ![](https://placehold.co/16x16/d9c76b/d9c76b.png) |
-| Orange | `#f4a259` | ![](https://placehold.co/16x16/f4a259/f4a259.png) |
-| Red | `#e16f73` | ![](https://placehold.co/16x16/e16f73/e16f73.png) |
-
----
-
 ## Features
 
 - **Exact palette match** - shares the same hex values as `leenium.vscode`
@@ -132,9 +113,9 @@ Shared Leenium palette.
 Leenium is a unified dark desktop environment built around the same color palette. Alongside this Waybar theme, the project ships matching configs for:
 
 - [**Firefox**](github.com/drunkleen/leenium.firefox) - browser theme extension
-- [**Hyprlock**](github.com/drunkleen/leenium.hyprlock) - browser theme extension
-- [**Limine**](github.com/drunkleen/leenium.limine) - browser theme extension
-- [**Neovim**](github.com/drunkleen/leenium.nvim) - syntax highlights and UI elements
+- [**Ghidra**](github.com/drunkleen/leenium.ghidra) - reverse engineering framework theme
+- [**Hyprlock**](github.com/drunkleen/leenium.hyprlock) - hyprland lockscreen
+- [**Limine**](github.com/drunkleen/leenium.limine) - BootLoader
 - [**Omarchy**](github.com/drunkleen/leenium.omarchy) - desktop theme bundle
 - [**OpenCode**](github.com/drunkleen/leenium.opencode) - terminal-first theme
 - [**VS Code**](github.com/drunkleen/leenium.vscode) - editor theme and UI palette
