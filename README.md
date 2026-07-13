@@ -121,11 +121,13 @@ Leenium is a unified dark desktop environment built around the same color palett
 
 Visit [github.com/drunkleen](https://github.com/drunkleen) or [leenium.drunkleen.com](https://leenium.drunkleen.com/) to explore the full setup.
 
----
-
-## License
-
-MIT © [Leenium](LICENSE)
-
-
 <img src="https://raw.githubusercontent.com/drunkleen/leenium.webpage/refs/heads/master/assets/footer.png" width="100%" alt="Leenium footer" />
+
+<p align="center">
+    Copyright &copy; 2026-present <a href="https://github.com/drunkleen" target="_blank">LEENIUM</a>
+</p>
+<p align="center">
+    <a href="https://github.com/drunkleen/leenium.webpage/blob/master/LICENSE">
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=365156&colorB=33B8A8"/>
+    </a>
+</p>
