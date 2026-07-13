@@ -1,8 +1,6 @@
 <div align="center">
 
-# Leenium Neovim
-
-<img src="./assets/icon.png" width="10%" />
+<img src="https://raw.githubusercontent.com/drunkleen/leenium.webpage/refs/heads/master/assets/LEENIUM.png" width="250" alt="Leenium logo" />
 
 **A dark Neovim colorscheme built from the exact Leenium palette used by VS Code.**
 
@@ -128,3 +126,6 @@ Visit [github.com/drunkleen](https://github.com/drunkleen) or [leenium.drunkleen
 ## License
 
 MIT © [Leenium](LICENSE)
+
+
+<img src="https://raw.githubusercontent.com/drunkleen/leenium.webpage/refs/heads/master/assets/footer.png" width="100%" alt="Leenium footer" />
